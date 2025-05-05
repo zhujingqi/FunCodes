@@ -14,8 +14,16 @@ There are a lot of fun programs! Enjoy!
   
 - flying_mouse.exe
 
-  它会让你的鼠标乱飞！（也许Alt+F4可以，但有可能不行）
+  它会让你的鼠标乱飞！
   
 - Gemüse.exe
 
-  它是一个挑衅别人的小弹窗，每隔10秒会弹出 “Gemüse” （翻译过来就是 “菜” 的直译，是德语）
+  它是一个小弹窗，每隔10秒会弹出 “Gemüse” 
+
+- unclosable_window.vbs
+
+  它是无法关闭的窗口的VBS版本（虽然你可以关闭wscript.exe）
+
+- stupid.vbs
+
+  它是一个弹窗，除非你承认 "You are stupid"，否则弹窗不会关闭！
