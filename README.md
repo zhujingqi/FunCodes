@@ -1,29 +1,37 @@
 # FunCodes
 
-There are a lot of fun programs! Enjoy!
+These are some fun programs, enjoy!
 
-# 免责声明
+If you want to close any of them, just use ```taskmgr```!
 
-部分程序可能会对您的计算机造成微小的伤害，下载及打开前请了解其功能，本人概不负责。
+To each ```EXE``` file, there is also a ```CPP``` file.
 
 # About
 
-- unclosable_window.exe
+- ```unclosable_window.exe```
 
-  它是一个无法关闭的窗口（虽然你可以用任务管理器）
+  It is a window that you can't close. (Although you can use ```taskmgr```)
   
-- flying_mouse.exe
+- ```flying_mouse.exe```
 
-  它会让你的鼠标乱飞！
+  It can make your mouse fly!
   
-- Gemüse.exe
+- ```Gemüse.exe```
 
-  它是一个小弹窗，每隔10秒会弹出 “Gemüse” 
+  Every 10 seconds, it will show a "Gemüse" message. It is annoying! 
 
-- unclosable_window.vbs
+- ```unclosable_window.vbs```
 
-  它是无法关闭的窗口的VBS版本（虽然你可以关闭wscript.exe）
+  It is an unclosable window in VBS (Although you can close ```wscript.exe```)
 
-- stupid.vbs
+- ```stupid.vbs```
 
-  它是一个弹窗，除非你承认 "You are stupid"，否则弹窗不会关闭！
+  It won't disappear until you confrim that you are stupid!
+
+# Disclaimers
+
+- My programs are for teaching and sharing purposes only. Please do not use the programs to cause inconvenience to others.
+
+- Some programs may cause damage to your computer or interrupt your work.
+  
+- Please understand their functions before downloading and opening them. I am not responsible for them.
